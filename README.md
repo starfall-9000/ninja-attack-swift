@@ -2,6 +2,10 @@
 
 tutorial for training swift 4 - https://www.raywenderlich.com/71-spritekit-tutorial-for-beginners
 
+swift 4
+
+XCode 9.4.1
+
 ### learning
 
 * optional variable ?
@@ -25,4 +29,5 @@ tutorial for training swift 4 - https://www.raywenderlich.com/71-spritekit-tutor
 * SKAction: repeatForever, run, wait, move, removeFromParent, sequence, playSoundFileNamed
 
 * SKPhysicsBody: categoryBitMask, contactTest (contact listener), collision (contact response)
+
 
