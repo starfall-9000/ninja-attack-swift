@@ -12,11 +12,13 @@ tutorial for training swift 4 - https://www.raywenderlich.com/71-spritekit-tutor
 
 * implicit unwrap optional ! - tu dong unwrap bien optional, app crash khi variable = nill
 
-* let (const) / var, guard
+* let (const) / var, guard, [weak self], [unowned self], `self` (strong-weak dance)
 
 * extentsion (category), delegate, func
 
-* SpriteKit framework to make game: SKView, SKScene, SKSpriteNode (object), SKAction, SKPhysicsWorld (physical enviroment), SKPhysicsBody (physical for object), SKAudioNode (play audio)
+* closure, capture list
+
+* SpriteKit framework to make game: SKView, SKScene, SKSpriteNode (object), SKAction, SKPhysicsWorld (physical enviroment), SKPhysicsBody (physical for object), SKAudioNode (play audio), SKTransition (animation)
 
 * SKScene: didMoveToView, addChild, run
 
