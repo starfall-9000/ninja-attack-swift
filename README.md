@@ -14,6 +14,8 @@ tutorial for training swift 4 - https://www.raywenderlich.com/71-spritekit-tutor
 
 * let (const) / var
 
+* extentsion (category)
+
 * SpriteKit framework to make game: GameScene, SKView, SKScene, SKSpriteNode, SKAction
 
 * SKScene: didMoveToView, addChild, run
