@@ -16,9 +16,11 @@ tutorial for training swift 4 - https://www.raywenderlich.com/71-spritekit-tutor
 
 * extentsion (category), delegate, func
 
-* SpriteKit framework to make game: GameScene, SKView, SKScene, SKSpriteNode, SKAction, SKPhysicsWorld, SKPhysicsBody
+* SpriteKit framework to make game: SKView, SKScene, SKSpriteNode (object), SKAction, SKPhysicsWorld (physical enviroment), SKPhysicsBody (physical for object), SKAudioNode (play audio)
 
 * SKScene: didMoveToView, addChild, run
+
+* SKAction: repeatForever, run, wait, move, removeFromParent, sequence, playSoundFileNamed
 
 * SKPhysicsBody: categoryBitMask, contactTest (contact listener), collision (contact response)
 
